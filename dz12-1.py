@@ -40,7 +40,7 @@ class Voin(Personagi):
         super().MetodBazUron()
         return 'заморозка – наносит 1 урона'
 
-    @classmethod
+    @classmethod #
     def og_shar(cls):
         super().MetodBazUron()
         return 'огненный шар - наносит 5 урона и произносится 5 секунд'
