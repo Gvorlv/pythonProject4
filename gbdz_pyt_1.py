@@ -6,7 +6,7 @@
 per1=int(input('введите целое число'))
 per2=input('введите строку')
 per3=True
-print (per1, per2, per3)
+print (per1,per2, per3)
 
 '''
 2. Пользователь вводит время в секундах. 
@@ -21,7 +21,7 @@ minu=ostsek//60
 #print(minu, 'минут')
 sek2=ostsek%60
 #print(sek2, 'сек')
-print(f'{chas} час {minu} минут {sek2} секунд')
+print(f'{chas} : {minu} : {sek2} ')
 
 '''
 3. Узнайте у пользователя число n. 
